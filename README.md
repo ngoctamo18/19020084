@@ -1,5 +1,6 @@
-# 19020084
-#Trinh Ngoc Tam - K64J
+# Information
+19020084
+Trinh Ngoc Tam - K64J
 # Dictionary Application
 Dictionary translate English to Vietnamese and Vietnamese to English <br/>
 
