@@ -5,9 +5,11 @@ Trinh Ngoc Tam - K64J
 Dictionary translate English to Vietnamese and Vietnamese to English <br/>
 
 # How to install for Java 8, IDE IntelliJ: 
-Step 1: Click right mouse to folder src -> Mark Directory as -> Sources Root <br/>
-Step 2: Run main in Run.java <br/>
-Enjoy!
+Step 1: Extract ZIP dict_hh
+Step 2: Open project
+Step 3: Click right mouse to folder src -> Mark Directory as -> Sources Root <br/>
+Step 4: Run main in Run.java <br/>
+
 
 # Source: 
 Icon: https://icons-for-free.com/apps+dictionary-131996347660924613/ <br/>
