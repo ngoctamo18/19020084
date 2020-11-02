@@ -1,12 +1,12 @@
 # Information
-19020084
+19020084 <br/>
 Trinh Ngoc Tam - K64J
 # Dictionary Application
 Dictionary translate English to Vietnamese and Vietnamese to English <br/>
 
 # How to install for Java 8, IDE IntelliJ: 
-Step 1: Extract ZIP dict_hh
-Step 2: Open project
+Step 1: Extract ZIP dict_hh <br/>
+Step 2: Open project <br/>
 Step 3: Click right mouse to folder src -> Mark Directory as -> Sources Root <br/>
 Step 4: Run main in Run.java <br/>
 
